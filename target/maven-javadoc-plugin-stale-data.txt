@@ -1,0 +1,50 @@
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/informatica/NetBeansProjects/Melone_Verifica/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Melone_Verifica 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/informatica/NetBeansProjects/Melone_Verifica/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Melone_Verifica 1.0-SNAPSHOT API'
+melone_verifica
+melone_verifica
+melone_verifica
+melone_verifica
+melone_verifica
+/home/informatica/NetBeansProjects/Melone_Verifica/src/main/java = 1620108607992
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/overview-tree.html = 1620113188140
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/allpackages-index.html = 1620113188168
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/stylesheet.css = 1620113188180
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/allclasses-index.html = 1620113188164
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/search.js = 1620113188184
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/member-search-index.zip = 1620113188160
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/deprecated-list.html = 1620113188172
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/allclasses.html = 1620113188176
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/script.js = 1620113188184
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/package-search-index.js = 1620113188152
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/member-search-index.js = 1620113188160
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/help-doc.html = 1620113188180
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/element-list = 1620113188100
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/type-search-index.js = 1620113188160
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/constant-values.html = 1620113188116
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/index.html = 1620113188176
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/type-search-index.zip = 1620113188160
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/index-all.html = 1620113188160
+/home/informatica/NetBeansProjects/Melone_Verifica/target/site/apidocs/package-search-index.zip = 1620113188160
